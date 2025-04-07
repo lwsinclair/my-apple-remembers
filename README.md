@@ -1,6 +1,7 @@
 # MCP Server - My Apple Remembers
 **A simple MCP server that recalls and saves memories from and to Apple Notes.**
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/buryhuang/mcp-my-apple-remembers)](https://hub.docker.com/r/buryhuang/mcp-my-apple-remembers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9bd5bc1c-02fe-4e71-88c4-46b3e9438ac0" />
