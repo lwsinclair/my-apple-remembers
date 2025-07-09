@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/honeybluesky-my-apple-remembers-badge.png)](https://mseep.ai/app/honeybluesky-my-apple-remembers)
+
 # MCP Server - My Apple Remembers
 **A simple MCP server that recalls and saves memories from and to Apple Notes.**
 
